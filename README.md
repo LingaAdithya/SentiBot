@@ -1,3 +1,4 @@
+Note: Chatbot is under development
 This analyzes the customer feedback and provides the sentiment score. Negative values represent unsatisfactory and positive value represents a positive feedback.
 How to run:
 1. Open the folder sentiment score. It contains a folder "sentiment_model". It is the trained model to predict the sentiment score.
